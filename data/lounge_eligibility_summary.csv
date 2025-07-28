@@ -1,0 +1,17 @@
+TimeCategory,HAUL,ARRIVAL_REGION,Est_Tier1_PAX,Est_Tier2_PAX,Est_Tier3_PAX
+Evening,LONG,Asia,664,2214,7749
+Evening,LONG,Middle East,807,2690,9415
+Evening,LONG,North America,2651,8836,30927
+Evening,SHORT,Europe,3953,13176,46116
+Midday,LONG,Asia,599,1996,6986
+Midday,LONG,Middle East,650,2166,7580
+Midday,LONG,North America,2565,8550,29926
+Midday,SHORT,Europe,3861,12870,45045
+Morning,LONG,Asia,835,2784,9743
+Morning,LONG,Middle East,942,3139,10985
+Morning,LONG,North America,3866,12887,45104
+Morning,SHORT,Europe,4563,15210,53235
+Night,LONG,Asia,3823,12742,44596
+Night,LONG,Middle East,3621,12070,42247
+Night,LONG,North America,14215,47383,165841
+Night,SHORT,Europe,19888,66294,232029
